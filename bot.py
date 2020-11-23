@@ -12,9 +12,7 @@ bot = telebot.TeleBot('your token')
 txt = '''
 This is a meme bot. He sends you memes and you can
 rate them. If you press 😂 he will only send you a new meme.
-If you press 😶 he will delete this meme and send you a new. If you 
-write "enough for today" in the chat the bot will stop sending you memes, 
-if you send then "i need memes" he will send you memes again
+If you press 😶 he will delete this meme and send you a new. 
 If you want to change the language of the memes: write /lang
 and choose the language you want
 The source code you can see on Github on this account: alxstx
@@ -24,9 +22,7 @@ Also you can check my instagram: alx_stx
 txtrus = '''
 Это мем бот. Он тебе отправляет различные мемы который ты 
 можешь оценить. Если ты нажимаешь на 😂 под мемом бот тебе отправляет новый
-мем. А если ты нажимаешь на 😶 он удаляет этот  мем и присылает тебе новый. Если ты 
-напишешь "я устал смотреть мемы" в чат то бот перестанет тебе присылать мемы,
-если ты ему после этого напишешь "мне нужны мемы" он возобновит отправку мемов.
+мем. А если ты нажимаешь на 😶 он удаляет этот  мем и присылает тебе новый.
 Если ты хочешь поменять язык на инглиш: напиши боту /lang и выбери язык
 Исходный код будет на Гитхабе на этом аккаунте: alxstx
 Также ты можень подписаться на автора в инсте: alx_stx ПОДПИШИСЬ плиз🙏
